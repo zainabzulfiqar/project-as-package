@@ -1,0 +1,15 @@
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectA\bin\Debug\net6.0\ProjectA.deps.json
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectA\bin\Debug\net6.0\ProjectA.dll
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectA\bin\Debug\net6.0\ProjectA.pdb
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectA\bin\Debug\net6.0\ProjectB.dll
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectA\bin\Debug\net6.0\ProjectB.pdb
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectA\obj\Debug\net6.0\ProjectA.csproj.AssemblyReference.cache
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectA\obj\Debug\net6.0\ProjectA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectA\obj\Debug\net6.0\ProjectA.AssemblyInfoInputs.cache
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectA\obj\Debug\net6.0\ProjectA.AssemblyInfo.cs
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectA\obj\Debug\net6.0\ProjectA.csproj.CoreCompileInputs.cache
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectA\obj\Debug\net6.0\ProjectA.csproj.CopyComplete
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectA\obj\Debug\net6.0\ProjectA.dll
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectA\obj\Debug\net6.0\refint\ProjectA.dll
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectA\obj\Debug\net6.0\ProjectA.pdb
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectA\obj\Debug\net6.0\ref\ProjectA.dll

@@ -1,0 +1,12 @@
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectB\bin\Debug\net6.0\ProjectB.deps.json
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectB\bin\Debug\net6.0\ProjectB.dll
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectB\bin\Debug\net6.0\ProjectB.pdb
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectB\obj\Debug\net6.0\ProjectB.csproj.AssemblyReference.cache
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectB\obj\Debug\net6.0\ProjectB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectB\obj\Debug\net6.0\ProjectB.AssemblyInfoInputs.cache
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectB\obj\Debug\net6.0\ProjectB.AssemblyInfo.cs
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectB\obj\Debug\net6.0\ProjectB.csproj.CoreCompileInputs.cache
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectB\obj\Debug\net6.0\ProjectB.dll
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectB\obj\Debug\net6.0\refint\ProjectB.dll
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectB\obj\Debug\net6.0\ProjectB.pdb
+C:\Users\zainab.zulfiqar\source\repos\ProjectA\ProjectB\obj\Debug\net6.0\ref\ProjectB.dll
